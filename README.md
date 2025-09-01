@@ -22,7 +22,7 @@
   
 ## 🌐 Socials:
   <p>
-  <a href="www.linkedin.com/in/aryan-tiwari-174a50298" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-tiwari-174a50298/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" />
   </a>
   <a href="mailto:aryan.soron1890@gmail.com">
